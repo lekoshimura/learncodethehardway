@@ -1,4 +1,4 @@
 learncodethehardway
 ===================
 
-This is my reposityrepository to my exercises
+This is my reposity to the exercises developed at http://ruby.learncodethehardway.org/

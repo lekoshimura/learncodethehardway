@@ -83,4 +83,4 @@ def start
   end
 end
 
-gold_room
+start

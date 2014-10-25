@@ -91,6 +91,7 @@ def start()
   
   banda_selecionada = bandas[opcao.to_i]
   if banda_selecionada.eql? LED_ZEPPELIN 
+    puts \a
     led_zeppelin()
   elsif banda_selecionada.eql? QUEEN
     queen()

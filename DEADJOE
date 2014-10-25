@@ -1,0 +1,44 @@
+
+*** These modified files were found in JOE when it aborted on Sun Oct 19 21:17:02 2014
+*** JOE was aborted by UNIX signal 15
+
+*** File '/home/leonardo/study/ruby/learncodethehardway/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   ex01.rb~
+#	new file:   ex02.rb~
+#	new file:   ex03.rb~
+#	new file:   ex04.rb~
+#	new file:   ex05.rb~
+#	new file:   ex06.rb~
+#	new file:   ex07.rb~
+#	new file:   ex08.rb~
+#	new file:   ex09.rb~
+#	new file:   ex10.rb~
+#	new file:   ex11.rb~
+#	new file:   ex12.rb~
+#	new file:   ex13.rb~
+#	new file:   ex14.rb~
+#	new file:   ex15.rb~
+#	new file:   ex16.rb~
+#	new file:   ex17.rb~
+#	new file:   ex18.rb~
+#	new file:   ex19.rb~
+#	new file:   ex20.rb~
+#	new file:   ex25.rb~
+#	new file:   ex26.rb~
+#	new file:   ex29.rb~
+#	new file:   ex30.rb~
+#	new file:   ex33.1.rb~
+#	new file:   ex33.2.rb~
+#	new file:   ex33.rb~
+#	new file:   ex35.rb~
+#	new file:   ex36.rb~
+#
+
+*** File '(Unnamed)'
+.bashrc
+/home/leonardo/study/ruby/learncodethehardway/.git/COMMIT_EDITMSG

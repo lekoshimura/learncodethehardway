@@ -1,3 +1,11 @@
+=begin
+
+Exercise 12: Prompting People for Numbers
+You may have noticed in Exercise 11 that you were getting strings from the user. 
+How do you get numbers? Type this code in to find out how.
+
+=end
+
 print "Give me a number: "
 number = gets.chomp.to_f
 

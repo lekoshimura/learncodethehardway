@@ -1,3 +1,13 @@
+=begin
+
+Exercise 12: Prompting People for Numbers
+You may have noticed in Exercise 11 that you were getting strings from the user. 
+How do you get numbers? Type this code in to find out how.
+
+
+
+=end
+
 print "Give me a number: "
 number = gets.chomp.to_f
 
@@ -14,5 +24,5 @@ puts "A smaller number is #{smaller}"
 print "Me dá dinheiro: "
 dinheiro = gets.chomp.to_f
 troco = dinheiro * 0.1
-puts "Aqui está seu troco"
+puts "Aqui está seu troco de #{troco}"
 

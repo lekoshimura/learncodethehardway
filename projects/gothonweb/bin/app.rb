@@ -10,6 +10,12 @@ get '/' do
 end
 
 get '/hello/' do 
-  greeting = params[:greeting] || 'Hi there'
-  erb :index, :locals => {'greeting' => greeting} 
+  erb :hello_form
+end
+
+post '/hello/' do 
+  greeting = params[:greeting] || 'Hi'
+  name = params[:name] || 'Ononon'
+  
+  erb :index, :locals => {'greeting' => greeting, 'name' => name}
 end
